@@ -1,2 +1,3 @@
-# note-app
-# note-app
+# Note Application
+
+Tech Stack : MERN
